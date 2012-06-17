@@ -1,0 +1,21 @@
+DISPLAYPICTURE PLUGIN IN DEUTSCH
+
+
+hab bloss die Zeile
+
+    	    self.say("Je recherche une image pour "+Title+"...")
+
+durch
+
+    	    self.say("Ich suche nach einem Bild von "+Title+"...")
+
+ersetzt, für die richtige deutsche ausgabe.
+
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "displaypicture" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "displaypicture" in plugins.conf ein
+
+FERTIG
